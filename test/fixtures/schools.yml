@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  school: MyString
+  zipcode: 1
+  calendar_id: 1
+
+two:
+  school: MyString
+  zipcode: 1
+  calendar_id: 1
